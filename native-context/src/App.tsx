@@ -1,7 +1,7 @@
 import { useState, useEffect, useContext, createContext } from "react";
 import React from "react";
 
-// Define the shape of a Pokemon
+// define the shape of a Pokemon
 interface Pokemon {
   id: number;
   name: string;
